@@ -1,2 +1,5 @@
-## Ola sou a Gilvan Costa, Atualmente estou aprendendo Dart e Flutter  e participando do #100DaysOfCode
-  ##
+## I'm Gilvan Costa - Software Developer, Flutter Enthusiast and Publisher in Affiliate Marketing. 
+#Flutter
+#Dart
+#100DaysOfCode
+##
